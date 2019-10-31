@@ -1,12 +1,12 @@
 # Battery Management System for Electrical Motorbike
 Worked on a group design project to design and develop a battery management system for Li-ion batteries , as the control system designer and lead programmer. I was responsible of designing and developing a hybrid control and condition monitoring system that comprised of Arduino and Raspberry Pi for sensor measurements , mechanical actuation and data analysis.
 
-# H3 Raspberry Pi
+### Raspberry Pi
     * Estimation of State-ofCharge (SoC) and State-ofHealth (SoH) of the batteries.
     * Execution of computational algorithms like linear interpolation, etc.
     * Creation and updating CSV files to perform Google Drive upload for user’s access to data for analysis.
     * Transmission important data to Arduino 2 for displaying dashboard.
-# H3 Arduino
+### Arduino
     *  Measure the Voltages of the batteries.
     * Measure the discharge current of the batteries.
     * Measure the batteries’ temperatures during operation.
