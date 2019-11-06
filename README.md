@@ -16,5 +16,7 @@ Worked on a group design project to design and develop a battery management syst
     * Reporting back the monitoring system via Raspberry Pi at the end of the operation cycle by registering the user’s switch click on the screen. 
 
 
-[Check out the final group video](https://www.youtube.com/watch?v=v9mOU1CrWdg&feature=youtu.be)
+![Check out the final group video](https://www.youtube.com/watch?v=v9mOU1CrWdg&feature=youtu.be)
+<img width="378" alt="Screen_Shot_2019-10-17_at_7 52 38_PM" src="https://user-images.githubusercontent.com/56647167/68282222-b3ccf380-0092-11ea-89eb-2e42fbc8f68f.png">
+
 
